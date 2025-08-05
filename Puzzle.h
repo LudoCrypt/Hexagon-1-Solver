@@ -52,7 +52,7 @@
  *     - [0] = 0 → Top (White) Face
  *     - [1] = 1 → Right corner
  *     - [2-5] = 0011 → C2
- *     - [5] = 0 → This is not an edge.
+ *     - [5] = 1 → This is not an edge.
  *
  * The solved state of the puzzle (as interpreted literally) is as follows:
  * Top    → 00000000000000000000 000001 010001 000010 000011 010011 000100 000101 010101 000110 000111 010111 001000 001001 011001 001010 001011 011011 001100
